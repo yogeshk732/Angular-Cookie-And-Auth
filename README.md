@@ -1,1 +1,1 @@
-# Angular-Cookie-And-Auth
+# Angular Cookies & Auth
