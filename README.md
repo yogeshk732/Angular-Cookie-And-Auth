@@ -1,1 +1,1 @@
-# Angular Cookies & Auth
+# Angular Cookies & Auth Services
